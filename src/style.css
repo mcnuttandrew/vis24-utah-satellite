@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+a:visited, a:link {
+    color: #eb89ad;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 100;
+    padding: 0;
+    margin: 0;
+}
+
+.top-bar {
+    width: 100%;
+    background-color: #316682;
+    height: 60px;
+}
+
+main {
+    max-width: 50%;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
