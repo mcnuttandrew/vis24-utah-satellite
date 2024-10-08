@@ -48,3 +48,15 @@ main {
 .justify-end {
     justify-content: flex-end;
 }
+
+/* for mobile */
+@media only screen and (max-width: 600px) {
+    main {
+        max-width: 100%;
+        padding: 0 20px;
+    }
+
+    img {
+        width: 100%;
+    }
+}
