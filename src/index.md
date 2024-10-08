@@ -18,3 +18,7 @@ Contact: [andrew.mcnutt@utah.edu](mailto:andrew.mcnutt@utah.edu)
 ## Schedule
 
 TBD
+
+## Errors and errata
+
+If you find any errors or have any suggestions for improvements, please let us know by filing an issue on our [GitHub repository](https://github.com/mcnuttandrew/vis24-utah-satellite/).
