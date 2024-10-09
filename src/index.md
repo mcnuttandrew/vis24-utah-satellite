@@ -17,6 +17,8 @@ Contact: [andrew.mcnutt@utah.edu](mailto:andrew.mcnutt@utah.edu)
 
 If you are interested in attending, **please fill out this [form](https://forms.gle/Mb1hSye7jD4diFTo6)**. This will help us to gauge interest and to plan accordingly.
 
+**Note**: A variety of elements of this event are still being worked out, so please check back for updates.
+
 ## Schedule
 
 TBD
