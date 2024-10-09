@@ -15,6 +15,8 @@ As VIS24 is to be held remote this year, we are organizing a satellite event at 
 
 Contact: [andrew.mcnutt@utah.edu](mailto:andrew.mcnutt@utah.edu)
 
+If you are interested in attending, **please fill out this [form](https://forms.gle/Mb1hSye7jD4diFTo6)**. This will help us to gauge interest and to plan accordingly.
+
 ## Schedule
 
 TBD
