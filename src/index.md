@@ -21,7 +21,26 @@ If you are interested in attending, **please fill out this [form](https://forms.
 
 ## Schedule
 
-TBD
+| Day       | Time          | Session Name                                        | Location |
+| --------- | ------------- | --------------------------------------------------- | -------- |
+| Tuesday   | 6:30 - 7:45   | Opening & Keynote                                   | Evans    |
+|           | 8:15 - 9:35   | VGTC Awards & Best Short Papers                     | Evans    |
+|           | 10:00 - 11:30 | Best Papers                                         | TBD      |
+|           | 5-8pm         | Evening event                                       | TBD      |
+| Wednesday | 6:30 - 7:45   | Text, Annotation, and Metaphor                      | Evans    |
+|           | 6:30 - 7:45   | Short Papers: Graph, Hierarchy and Multidimensional | Meldrum  |
+|           | 8:15 - 9:35   | TBD                                                 | Evans    |
+|           | 10:00 - 11:30 | Collaboration and Communication                     | Evans    |
+|           | 11:45 - 1PM   | Scripts, Notebooks, and Provenance                  | Evans    |
+|           | 11:45 - 1PM   | TBD                                                 | Jones    |
+| Thursday  | 6:30 - 7:45   | TBD                                                 | Evans    |
+|           | 8:15 - 9:35   | Topological Data Analysis                           | Evans    |
+|           | 10:00 - 11:30 | TBD                                                 | Evans    |
+|           | 11:45 - 1PM   | TBD                                                 | Evans    |
+| Friday    | 6:30 - 7:45   | TBD                                                 | LCR      |
+|           | 8:15 - 10?    | Capstone/Closing                                    | LCR      |
+
+Additional events to be scheduled.
 
 ## Errors and errata
 
