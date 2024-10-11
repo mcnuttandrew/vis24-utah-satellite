@@ -11,7 +11,7 @@ IEEE VIS is the premier forum for advances in theory, methods, and applications 
 
 ## Satellite Event
 
-As VIS24 is to be held remote this year, we are organizing a satellite event at the University of Utah. The event will be held on October 15-18 from 6am to 3pm. The event will generally be in the [Warnock Engineering Building](<https://www.google.com/maps/place/Warnock+Engineering+Building+(WEB)/@40.7677631,-111.8474332,17z/data=!3m1!4b1!4m6!3m5!1s0x87525f91e2e11b31:0x66eb3e5e585fbdd4!8m2!3d40.7677631!4d-111.8448583!16s%2Fg%2F1yl498l5s?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D>), with some exceptions. This event will include viewing of live streamed VIS24 talks, live talks from faculty and students, and social events. There will be substantial time for networking and discussion.
+As VIS24 is to be held remote this year, we are organizing a satellite event at the University of Utah. The event will be held on October 15-18 from 6am to 3pm. The event will generally be in the [Warnock Engineering Building](<https://www.google.com/maps/place/Warnock+Engineering+Building+(WEB)/@40.7677631,-111.8474332,17z/data=!3m1!4b1!4m6!3m5!1s0x87525f91e2e11b31:0x66eb3e5e585fbdd4!8m2!3d40.7677631!4d-111.8448583!16s%2Fg%2F1yl498l5s?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D>), with some exceptions. This event will include viewing of live streamed VIS24 talks, live talks from faculty and students, and social events. There will be substantial time for networking and discussion. **There will be breakfast and lunch provided (Tuesday-Thursday)**.
 
 Contact: [andrew.mcnutt@utah.edu](mailto:andrew.mcnutt@utah.edu)
 
@@ -25,13 +25,13 @@ If you are interested in attending, **please fill out this [form](https://forms.
 | --------- | ------------- | ---------------------------------------------------------------------------- | -------- |
 | Tuesday   | 6:30 - 7:45   | Opening & Keynote                                                            | Evans    |
 |           | 8:15 - 9:35   | VGTC Awards & Best Short Papers                                              | Evans    |
-|           | 10:00 - 11:30 | Best Papers (**Live Talk by Devin**)                                         | TBD      |
+|           | 10:00 - 11:30 | Best Papers (**Live Talk by Devin**)                                         | Meldrum  |
 |           | 5-8pm         | Evening event                                                                | TBD      |
 | Wednesday | 6:30 - 7:45   | Text, Annotation, and Metaphor (**Live Talk by Dilshadur**)                  | Evans    |
 |           | 6:30 - 7:45   | Short Papers: Graph, Hierarchy and Multidimensional (**Live Talk by Chang**) | Meldrum  |
 |           | 8:15 - 9:35   | TBD                                                                          | Evans    |
 |           | 10:00 - 11:30 | Collaboration and Communication (**Live Talk by Chang**)                     | Evans    |
-|           | 11:45 - 1PM   | Scripts, Notebooks, and Provenance (**Live Talk by Conor**)                  | Evans    |
+|           | 11:45 - 1PM   | Scripts, Notebooks, and Provenance (**Live Talk by Connor**)                 | Evans    |
 |           | 11:45 - 1PM   | TBD                                                                          | Jones    |
 | Thursday  | 6:30 - 7:45   | TBD                                                                          | Evans    |
 |           | 8:15 - 9:35   | Topological Data Analysis                                                    | Evans    |
@@ -41,6 +41,10 @@ If you are interested in attending, **please fill out this [form](https://forms.
 |           | 8:15 - 10?    | Capstone/Closing                                                             | LCR      |
 
 Additional events to be scheduled.
+
+Evans/Jones are on the third floor of the Warnock Engineering Building.
+Meldrum is on the second floor.
+LCR is [Merril Engineering Building](https://www.google.com/maps?client=firefox-b-1-d&sca_esv=5241be8b9e995615&output=search&q=merrill+engineering+building&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J3ppPdoHI1O-XvbXbpNjYYyyK5vBQSXmmfgAtXwDT_UwvibZ0pSIVFX3lVg5uBH9KRkcNkP3cvvJNBG5JuLgxBs03YF7ZheWmRhqfgCmBhS5o6SAZhDu3x8rWio402rJbDrei-2czWxVeRKadRtxLzMWgsQxFmZAWJEMLz75bbUBEJgcKw&entry=mc&ved=1t:200715&ictx=111) (right next door to Warnock).
 
 ## Errors and errata
 
