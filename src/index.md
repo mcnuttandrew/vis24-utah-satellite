@@ -25,31 +25,31 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 
 (all times in Utah Time, aka Mountain Time)
 
-| Day       | Time          | Name                                                                         | Location                                               |
-| --------- | ------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Tuesday   | 6:30 - 7:45   | Opening & Keynote                                                            | Evans                                                  |
-|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                     | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
-|           | 8:15 - 9:35   | VGTC Awards & Best Short Papers                                              | Evans                                                  |
-|           | 10:00 - 11:30 | Best Papers (**Live Talk by Devin**)                                         | Meldrum                                                |
-|           | 1:00 - 1:30   | [Coffee Break](./coffee)                                                     | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
-|           | 5-8pm         | Evening event                                                                | TBD                                                    |
-| Wednesday | 6:30 - 7:45   | Text, Annotation, and Metaphor (**Live Talk by Dilshadur**)                  | Evans                                                  |
-|           | 6:30 - 7:45   | Short Papers: Graph, Hierarchy and Multidimensional (**Live Talk by Chang**) | Meldrum                                                |
-|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                     | Jones / [Zoom](https://utah.zoom.us/j/92719330333)     |
-|           | 8:15 - 9:35   | TBD                                                                          | Evans                                                  |
-|           | 10:00 - 11:30 | Collaboration and Communication (**Live Talk by Chang**)                     | Evans                                                  |
-|           | 11:45 - 1PM   | Scripts, Notebooks, and Provenance (**Live Talk by Connor**)                 | Evans                                                  |
-|           | 11:45 - 1PM   | TBD                                                                          | Jones                                                  |
-|           | 12:45 - 1:15  | [Coffee Break](./coffee)                                                     | Meldrum / [Zoom](https://utah.zoom.us/j/92719330333)   |
-| Thursday  | 6:30 - 7:45   | TBD                                                                          | Evans                                                  |
-|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                     | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
-|           | 8:15 - 9:35   | Topological Data Analysis                                                    | Evans                                                  |
-|           | 10:00 - 11:30 | TBD                                                                          | Evans                                                  |
-|           | 11:45 - 1PM   | TBD                                                                          | Evans                                                  |
-|           | 12:45 - 1:15  | [Coffee Break](./coffee)                                                     | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
-| Friday    | 6:30 - 7:45   | TBD                                                                          | LCR                                                    |
-|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                     | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
-|           | 8:15 - 10?    | Capstone/Closing                                                             | LCR                                                    |
+| Day       | Time          | Name                                                                | Location                                               |
+| --------- | ------------- | ------------------------------------------------------------------- | ------------------------------------------------------ |
+| Tuesday   | 6:30 - 7:45   | Opening & Keynote                                                   | Evans                                                  |
+|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                            | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
+|           | 8:15 - 9:35   | VGTC Awards & Best Short Papers                                     | Evans                                                  |
+|           | 10:00 - 11:30 | Best Papers (**Live Talk**)                                         | Meldrum                                                |
+|           | 1:00 - 1:30   | [Coffee Break](./coffee)                                            | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
+|           | 5-8pm         | Evening event                                                       | TBD                                                    |
+| Wednesday | 6:30 - 7:45   | Text, Annotation, and Metaphor (**Live Talk**)                      | Evans                                                  |
+|           | 6:30 - 7:45   | Short Papers: Graph, Hierarchy and Multidimensional (**Live Talk**) | Meldrum                                                |
+|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                            | Jones / [Zoom](https://utah.zoom.us/j/92719330333)     |
+|           | 8:15 - 9:35   | TBD                                                                 | Evans                                                  |
+|           | 10:00 - 11:30 | Collaboration and Communication (**Live Talk**)                     | Evans                                                  |
+|           | 11:45 - 1PM   | Scripts, Notebooks, and Provenance (**Live Talk**)                  | Evans                                                  |
+|           | 11:45 - 1PM   | TBD                                                                 | Jones                                                  |
+|           | 12:45 - 1:15  | [Coffee Break](./coffee)                                            | Meldrum / [Zoom](https://utah.zoom.us/j/92719330333)   |
+| Thursday  | 6:30 - 7:45   | TBD                                                                 | Evans                                                  |
+|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                            | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
+|           | 8:15 - 9:35   | Topological Data Analysis                                           | Evans                                                  |
+|           | 10:00 - 11:30 | TBD                                                                 | Evans                                                  |
+|           | 11:45 - 1PM   | TBD                                                                 | Evans                                                  |
+|           | 12:45 - 1:15  | [Coffee Break](./coffee)                                            | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
+| Friday    | 6:30 - 7:45   | TBD                                                                 | LCR                                                    |
+|           | 7:45 - 8:15   | [Coffee Break](./coffee)                                            | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
+|           | 8:15 - 10?    | Capstone/Closing                                                    | LCR                                                    |
 
 Additional events to be scheduled.
 
