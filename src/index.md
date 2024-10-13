@@ -56,7 +56,7 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 Additional events to be scheduled.
 
 Evans/Jones are on the third floor of the Warnock Engineering Building.
-Meldrum is on the second floor.
+Meldrum is on the second floor. Halvorsen is on the fourth floor.
 LCR is [Merril Engineering Building](https://www.google.com/maps?client=firefox-b-1-d&sca_esv=5241be8b9e995615&output=search&q=merrill+engineering+building&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J3ppPdoHI1O-XvbXbpNjYYyyK5vBQSXmmfgAtXwDT_UwvibZ0pSIVFX3lVg5uBH9KRkcNkP3cvvJNBG5JuLgxBs03YF7ZheWmRhqfgCmBhS5o6SAZhDu3x8rWio402rJbDrei-2czWxVeRKadRtxLzMWgsQxFmZAWJEMLz75bbUBEJgcKw&entry=mc&ved=1t:200715&ictx=111) (right next door to Warnock).
 
 ## Errors and errata
