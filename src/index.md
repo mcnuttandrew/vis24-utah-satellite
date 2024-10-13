@@ -50,7 +50,8 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 |           | 1:30 - 3:00   | (**LIVE**) Lightning Poster Talks                                         | Evans                                                  |
 | Friday    | 6:30 - 7:45   | TBD                                                                       | LCR                                                    |
 |           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                  | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
-|           | 8:15 - 10?    | Capstone/Closing                                                          | LCR                                                    |
+|           | 8:15 - 11     | Capstone/Closing                                                          | LCR                                                    |
+|           | 4:00 - ?      | After vis gathering                                                       | TBD                                                    |
 
 <!-- |           | 1:00 - 2:30   | Town hall and VIS Conference Futures Panel                                | Evans                                                  | -->
 
