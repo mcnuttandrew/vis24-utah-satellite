@@ -22,11 +22,11 @@ People in Utah: See schedule below!
 | Day       | Time         | Name         | Location  |
 | --------- | ------------ | ------------ | --------- |
 | Tuesday   | 7:45 - 8:15  | Coffee Break | Halvorsen |
-|           | 1:00 - 1:30  | Coffee Break | Halvorsen |
+|           | 11:30 - 12:00| Coffee Break | TBD       |
 | Wednesday | 7:45 - 8:15  | Coffee Break | Jones     |
-|           | 12:45 - 1:15 | Coffee Break | Meldrum   |
+|           | 11:15 - 11:45| Coffee Break | TBD       |
 | Thursday  | 7:45 - 8:15  | Coffee Break | Halvorsen |
-|           | 12:45 - 1:15 | Coffee Break | Halvorsen |
+|           | 1:00 - 1:30  | Coffee Break | TBD       |
 | Friday    | 7:45 - 8:15  | Coffee Break | Halvorsen |
 
 Contact: [devinscottlange@gmail.com](mailto:devinscottlange@gmail.com) with issues/questions regarding SCI Coffee Hour!
