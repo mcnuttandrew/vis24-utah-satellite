@@ -60,3 +60,15 @@ main {
         width: 100%;
     }
 }
+
+table {
+    border-collapse: collapse;
+}
+
+
+
+table td, table th {
+    padding: 2px 2px;
+}
+
+tr:hover {background-color: #d7d7d7;}
