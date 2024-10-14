@@ -31,7 +31,7 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 |           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                  | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
 |           | 8:15 - 9:35   | VGTC Awards & Best Short Papers                                           | Evans                                                  |
 |           | 10:00 - 11:30 | Best Papers (**Live Talk**)                                               | Meldrum                                                |
-|           | 11:30 - 12:00 | [Coffee Break](./coffee)                                                  | TBD / [Zoom](https://utah.zoom.us/j/92719330333)       |
+|           | 11:30 - 12:00 | [Coffee Break](./coffee)                                                  | Halvorson / [Zoom](https://utah.zoom.us/j/92719330333) |
 |           | 5-8pm         | Evening event                                                             | TBD                                                    |
 | Wednesday | 6:30 - 7:45   | Text, Annotation, and Metaphor (**Live Talk**)                            | Evans                                                  |
 |           | 6:30 - 7:45   | Short Papers: Graph, Hierarchy and Multidimensional (**Live Talk**)       | Meldrum                                                |
@@ -40,13 +40,13 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 |           | 10:00 - 11:30 | Collaboration and Communication (**Live Talk**)                           | Evans                                                  |
 |           | 11:45 - 1PM   | Scripts, Notebooks, and Provenance (**Live Talk**)                        | Evans                                                  |
 |           | 11:45 - 1PM   | TBD                                                                       | Jones                                                  |
-|           | 11:15 - 11:45 | [Coffee Break](./coffee)                                                  | TBD / [Zoom](https://utah.zoom.us/j/92719330333)       |
+|           | 11:15 - 11:45 | [Coffee Break](./coffee)                                                  | Meldrum / [Zoom](https://utah.zoom.us/j/92719330333)   |
 | Thursday  | 6:30 - 7:45   | Short Papers: Short Papers: Perception and Representation (**Live Talk**) | Evans                                                  |
 |           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                  | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
 |           | 8:15 - 9:35   | Topological Data Analysis                                                 | Evans                                                  |
 |           | 10:00 - 11:30 | TBD                                                                       | Evans                                                  |
 |           | 11:45 - 1PM   | TBD                                                                       | Evans                                                  |
-|           | 1:00 - 1:30   | [Coffee Break](./coffee)                                                  | TBD / [Zoom](https://utah.zoom.us/j/92719330333)       |
+|           | 1:00 - 1:30   | [Coffee Break](./coffee)                                                  | Halvorson / [Zoom](https://utah.zoom.us/j/92719330333) |
 |           | 1:30 - 3:00   | (**LIVE**) Lightning Poster Talks                                         | Evans                                                  |
 | Friday    | 6:30 - 7:45   | TBD                                                                       | LCR                                                    |
 |           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                  | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
