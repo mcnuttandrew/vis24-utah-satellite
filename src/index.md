@@ -40,17 +40,16 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 | Wednesday | 6:30 - 7:45   | Text, Annotation, and Metaphor (**Live Talk**)                            | Evans                                                  |
 |           | 6:30 - 7:45   | Short Papers: Graph, Hierarchy and Multidimensional (**Live Talk**)       | Meldrum                                                |
 |           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                  | Jones / [Zoom](https://utah.zoom.us/j/92719330333)     |
-|           | 8:15 - 9:35   | TBD                                                                       | Evans                                                  |
+|           | 8:15 - 9:35   | Judgement and Decision making                                             | Evans                                                  |
 |           | 10:00 - 11:30 | Collaboration and Communication (**Live Talk**)                           | Evans                                                  |
 |           | 11:15 - 11:45 | [Coffee Break](./coffee)                                                  | Meldrum / [Zoom](https://utah.zoom.us/j/92719330333)   |
 |           | 11:45 - 1PM   | Scripts, Notebooks, and Provenance (**Live Talk**)                        | Evans                                                  |
-|           | 11:45 - 1PM   | TBD                                                                       | Jones                                                  |
 |           | 1:00 - 2:30   | Town hall and VIS Conference Futures Panel                                | Evans                                                  |
 | Thursday  | 6:30 - 7:45   | Short Papers: Short Papers: Perception and Representation (**Live Talk**) | Evans                                                  |
 |           | 7:45 - 8:15   | [Coffee Break](./coffee)                                                  | Halvorsen / [Zoom](https://utah.zoom.us/j/92719330333) |
 |           | 8:15 - 9:35   | Topological Data Analysis                                                 | Evans                                                  |
-|           | 10:00 - 11:30 | TBD                                                                       | Evans                                                  |
-|           | 11:45 - 1PM   | TBD                                                                       | Evans                                                  |
+|           | 10:00 - 11:30 | Visualization Design Methods                                              | Evans                                                  |
+|           | 11:45 - 1:00  | Journalism and Public Policy                                              | Evans                                                  |
 |           | 1:00 - 1:30   | [Coffee Break](./coffee)                                                  | Halvorson / [Zoom](https://utah.zoom.us/j/92719330333) |
 |           | 1:30 - 3:00   | (**LIVE**) Lightning Poster Talks                                         | Evans                                                  |
 | Friday    | 6:30 - 7:45   | Machine Visualization Literacy                                            | LCR                                                    |
