@@ -27,7 +27,7 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 
 ## Schedule
 
-(all times in Utah Time, aka Mountain Time)
+(all times in Utah Time/Mountain Time)
 
 | Day       | Time          | Name                                                                      | Location                                               |
 | --------- | ------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
@@ -57,7 +57,24 @@ We will also be hosting a hybrid coffee break! ☕ [Join us for coffee, even fro
 |           | 8:15 - 11     | Capstone/Closing                                                          | LCR                                                    |
 |           | 4:00 - ?      | After vis gathering                                                       | TBD                                                    |
 
-Additional events to be scheduled.
+## Lightning Poster Talks Schedule
+
+Posters
+
+1. Visual Stenography: Feature Recreation and Preservation in Sketches of Line Charts. **Rifat Ara Proma**, Michael Correll, Ghulam Jilani Quadri, Paul Rosen
+2. Enhancing Accessibility of UpSet Plots with Text Descriptions. **Ishrat Jahan Eliza**, Jake Wagoner, Jack Wilburn, Nate Lanza, Daniel Hajas, Alexander Lex
+3. Vispubs.com: A Visualization Publications Repository. **Devin Lange**
+4. How Do Professionals Use Annotations in Visualizations? **Md Dilshadur Rahman**, Ghulam Jilani Quadri, Paul Rosen.
+5. GASP: A Gradient-Aware Shortest Path Algorithm for Boundary-Confined Visualization of 3D Reeb Graphs. **Sefat E Rahman**, Tushar M. Athawale, Paul Rosen
+6. ChannelExplorer: Visual Analytics at Activation Channel‚Äôs Granularity. **Md Rahat-uz- Zaman**, Bei Wang, Paul Rosen
+7. CrowdAloud: A Platform for Crowd-Sourced Think-Aloud Studies. **Zach Cutler**, Lane Harrison, Carolina Nobre, Alexander Lex
+8. Balancing Code Order and Loop Structure in a Control Flow Layout. **Shadmaan Hye**, Matthew Legendre, Katherine E. Isaacs
+
+Capstone
+
+Kalina Borkiewicz, internship report
+
+## Locations
 
 Evans/Jones are on the third floor of the Warnock Engineering Building.
 Meldrum is on the second floor. Halvorsen is on the fourth floor.
@@ -66,3 +83,7 @@ LCR is [Merril Engineering Building](https://www.google.com/maps?client=firefox-
 ## Errors and errata
 
 If you find any errors or have any suggestions for improvements, please let us know by filing an issue on our [GitHub repository](https://github.com/mcnuttandrew/vis24-utah-satellite/).
+
+## Organizers
+
+Organized in various capacities by Andrew McNutt, Devin Lange, Connor Scully-Allison, and Sefat E Rahman
