@@ -10,7 +10,7 @@ layout: "base.html"
 IEEE VIS is the premier forum for advances in theory, methods, and applications of visualization and visual analytics.
 
 <div>
- <img src="/assets/gator_satellite.png" style="max-width: 100%"/>
+ <img src="/assets/gator_satellite.png" style="max-width: 20%; width: 200px;"/>
 </div>
 
 ## Satellite Event
