@@ -66,7 +66,7 @@ Posters
 3. Vispubs.com: A Visualization Publications Repository. **Devin Lange**
 4. How Do Professionals Use Annotations in Visualizations? **Md Dilshadur Rahman**, Ghulam Jilani Quadri, Paul Rosen.
 5. GASP: A Gradient-Aware Shortest Path Algorithm for Boundary-Confined Visualization of 3D Reeb Graphs. **Sefat E Rahman**, Tushar M. Athawale, Paul Rosen
-6. ChannelExplorer: Visual Analytics at Activation Channel‚Äôs Granularity. **Md Rahat-uz- Zaman**, Bei Wang, Paul Rosen
+6. ChannelExplorer: Visual Analytics at Activation Channel's Granularity. **Md Rahat-uz- Zaman**, Bei Wang, Paul Rosen
 7. CrowdAloud: A Platform for Crowd-Sourced Think-Aloud Studies. **Zach Cutler**, Lane Harrison, Carolina Nobre, Alexander Lex
 8. Balancing Code Order and Loop Structure in a Control Flow Layout. **Shadmaan Hye**, Matthew Legendre, Katherine E. Isaacs
 
